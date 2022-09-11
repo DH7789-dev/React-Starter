@@ -1,0 +1,20 @@
+//Variables
+
+
+
+
+html,
+body {
+  color: #fff;
+  background-color: #131417;
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  input{
+    -webkit-appearance: none;
+  }
+}
